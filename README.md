@@ -1,0 +1,1 @@
+# segmentation of market data
